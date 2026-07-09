@@ -1,10 +1,11 @@
 {
+  "app": "XTM Launcher",
   "version": "1.0.0",
   "files": [
     {
-      "name": "UnlockTool.exe",
+      "name": "UnlockTool-2026-07-07-0.exe",
+      "folder": "Data",
       "url": "https://github.com/xtmjohn/data/releases/download/xtm/UnlockTool-2026-07-07-0.exe"
-    },
-
+    }
   ]
 }
