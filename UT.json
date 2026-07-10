@@ -3,20 +3,11 @@
   "version": "1.0.0",
   "files": [
     {
-      "name": "UnlockTool.exe",
-      "folder": "Desktop",
+      "name": "UnlockTool-2026-07-07-0.exe",
+      "folder": "Data",
       "run": true,
       "overwrite": true,
-      "url": "https://github.com/xtmjohn/data/releases/download/xtm/UnlockTool-2026-07-07-0.exe",
-      "description": "Main UnlockTool application"
+      "url": "https://github.com/xtmjohn/data/releases/download/xtm/UnlockTool-2026-07-07-0.exe"
     }
-  ],
-  "settings": {
-    "show_progress": true,
-    "auto_run": true,
-    "exit_after_run": true,
-    "show_message": true,
-    "message_title": "Download Complete",
-    "message_text": "Downloaded successfully to Desktop! Please wait for UnlockTool to open. Thank you for your trust!"
-  }
+  ]
 }
