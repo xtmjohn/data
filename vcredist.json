@@ -1,0 +1,90 @@
+{
+  "app": "XTM Launcher",
+  "version": "1.0.1",
+  "files": [
+    {
+      "name": "vcredist2005_x64.exe",
+      "folder": "Data",
+      "run": true,
+      "overwrite": true,
+      "url": "https://github.com/xtmjohn/data/releases/download/xtm1/vcredist2005_x64.exe"
+    },
+    {
+      "name": "vcredist2005_x86.exe",
+      "folder": "Data",
+      "run": true,
+      "overwrite": true,
+      "url": "https://github.com/xtmjohn/data/releases/download/xtm1/vcredist2005_x86.exe"
+    },
+    {
+      "name": "vcredist2008_x64.exe",
+      "folder": "Data",
+      "run": true,
+      "overwrite": true,
+      "url": "https://github.com/xtmjohn/data/releases/download/xtm1/vcredist2008_x64.exe"
+    },
+    {
+      "name": "vcredist2008_x86.exe",
+      "folder": "Data",
+      "run": true,
+      "overwrite": true,
+      "url": "https://github.com/xtmjohn/data/releases/download/xtm1/vcredist2008_x86.exe"
+    },
+    {
+      "name": "vcredist2010_x64.exe",
+      "folder": "Data",
+      "run": true,
+      "overwrite": true,
+      "url": "https://github.com/xtmjohn/data/releases/download/xtm1/vcredist2010_x64.exe"
+    },
+    {
+      "name": "vcredist2010_x86.exe",
+      "folder": "Data",
+      "run": true,
+      "overwrite": true,
+      "url": "https://github.com/xtmjohn/data/releases/download/xtm1/vcredist2010_x86.exe"
+    },
+    {
+      "name": "vcredist2012_x64.exe",
+      "folder": "Data",
+      "run": true,
+      "overwrite": true,
+      "url": "https://github.com/xtmjohn/data/releases/download/xtm1/vcredist2012_x64.exe"
+    },
+    {
+      "name": "vcredist2012_x86.exe",
+      "folder": "Data",
+      "run": true,
+      "overwrite": true,
+      "url": "https://github.com/xtmjohn/data/releases/download/xtm1/vcredist2012_x86.exe"
+    },
+    {
+      "name": "vcredist2013_x64.exe",
+      "folder": "Data",
+      "run": true,
+      "overwrite": true,
+      "url": "https://github.com/xtmjohn/data/releases/download/xtm1/vcredist2013_x64.exe"
+    },
+    {
+      "name": "vcredist2013_x86.exe",
+      "folder": "Data",
+      "run": true,
+      "overwrite": true,
+      "url": "https://github.com/xtmjohn/data/releases/download/xtm1/vcredist2013_x86.exe"
+    },
+    {
+      "name": "vcredist_v14.x64.exe",
+      "folder": "Data",
+      "run": true,
+      "overwrite": true,
+      "url": "https://github.com/xtmjohn/data/releases/download/xtm1/vcredist_v14.x64.exe"
+    },
+    {
+      "name": "vcredist_v14.x86.exe",
+      "folder": "Data",
+      "run": true,
+      "overwrite": true,
+      "url": "https://github.com/xtmjohn/data/releases/download/xtm1/vcredist_v14.x86.exe"
+    }
+  ]
+}

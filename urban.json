@@ -1,0 +1,13 @@
+{
+  "app": "XTM Launcher",
+  "version": "1.0.1",
+  "files": [
+    {
+      "name": "urban-vpn-5-2-0-8246.exe",
+      "folder": "Data",
+      "run": true,
+      "overwrite": true,
+      "url": "https://github.com/xtmjohn/data/releases/download/xtm1/urban-vpn-5-2-0-8246.exe"
+    }
+  ]
+}
