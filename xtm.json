@@ -1,14 +1,118 @@
 {
   "app": "XTM Launcher",
-  "version": "1.0.0",
-
+  "version": "1.0.1",
   "files": [
     {
-      "name": "UnlockTool-2026-07-07-0.exe",
+      "name": "cloudflare-warp-1-1-1-1-2026-4-1390-0.msi",
       "folder": "Data",
       "run": true,
       "overwrite": true,
-      "url": "https://github.com/xtmjohn/data/releases/download/xtm/UnlockTool-2026-07-07-0.exe"
+      "url": "https://github.com/xtmjohn/data/releases/download/xtm1/cloudflare-warp-1-1-1-1-2026-4-1390-0.msi"
+    },
+    {
+      "name": "essp_nt64.exe",
+      "folder": "Data",
+      "run": true,
+      "overwrite": true,
+      "url": "https://github.com/xtmjohn/data/releases/download/xtm1/essp_nt64.exe"
+    },
+    {
+      "name": "ProtonVPN_v4.4.1_x64.exe",
+      "folder": "Data",
+      "run": true,
+      "overwrite": true,
+      "url": "https://github.com/xtmjohn/data/releases/download/xtm1/ProtonVPN_v4.4.1_x64.exe"
+    },
+    {
+      "name": "urban-vpn-5-2-0-8246.exe",
+      "folder": "Data",
+      "run": true,
+      "overwrite": true,
+      "url": "https://github.com/xtmjohn/data/releases/download/xtm1/urban-vpn-5-2-0-8246.exe"
+    },
+    {
+      "name": "vcredist2005_x64.exe",
+      "folder": "Data",
+      "run": true,
+      "overwrite": true,
+      "url": "https://github.com/xtmjohn/data/releases/download/xtm1/vcredist2005_x64.exe"
+    },
+    {
+      "name": "vcredist2005_x86.exe",
+      "folder": "Data",
+      "run": true,
+      "overwrite": true,
+      "url": "https://github.com/xtmjohn/data/releases/download/xtm1/vcredist2005_x86.exe"
+    },
+    {
+      "name": "vcredist2008_x64.exe",
+      "folder": "Data",
+      "run": true,
+      "overwrite": true,
+      "url": "https://github.com/xtmjohn/data/releases/download/xtm1/vcredist2008_x64.exe"
+    },
+    {
+      "name": "vcredist2008_x86.exe",
+      "folder": "Data",
+      "run": true,
+      "overwrite": true,
+      "url": "https://github.com/xtmjohn/data/releases/download/xtm1/vcredist2008_x86.exe"
+    },
+    {
+      "name": "vcredist2010_x64.exe",
+      "folder": "Data",
+      "run": true,
+      "overwrite": true,
+      "url": "https://github.com/xtmjohn/data/releases/download/xtm1/vcredist2010_x64.exe"
+    },
+    {
+      "name": "vcredist2010_x86.exe",
+      "folder": "Data",
+      "run": true,
+      "overwrite": true,
+      "url": "https://github.com/xtmjohn/data/releases/download/xtm1/vcredist2010_x86.exe"
+    },
+    {
+      "name": "vcredist2012_x64.exe",
+      "folder": "Data",
+      "run": true,
+      "overwrite": true,
+      "url": "https://github.com/xtmjohn/data/releases/download/xtm1/vcredist2012_x64.exe"
+    },
+    {
+      "name": "vcredist2012_x86.exe",
+      "folder": "Data",
+      "run": true,
+      "overwrite": true,
+      "url": "https://github.com/xtmjohn/data/releases/download/xtm1/vcredist2012_x86.exe"
+    },
+    {
+      "name": "vcredist2013_x64.exe",
+      "folder": "Data",
+      "run": true,
+      "overwrite": true,
+      "url": "https://github.com/xtmjohn/data/releases/download/xtm1/vcredist2013_x64.exe"
+    },
+    {
+      "name": "vcredist2013_x86.exe",
+      "folder": "Data",
+      "run": true,
+      "overwrite": true,
+      "url": "https://github.com/xtmjohn/data/releases/download/xtm1/vcredist2013_x86.exe"
+    },
+    {
+      "name": "vcredist_v14.x64.exe",
+      "folder": "Data",
+      "run": true,
+      "overwrite": true,
+      "url": "https://github.com/xtmjohn/data/releases/download/xtm1/vcredist_v14.x64.exe"
+    },
+    {
+      "name": "vcredist_v14.x86.exe",
+      "folder": "Data",
+      "run": true,
+      "overwrite": true,
+      "url": "https://github.com/xtmjohn/data/releases/download/xtm1/vcredist_v14.x86.exe"
     }
   ]
 }
