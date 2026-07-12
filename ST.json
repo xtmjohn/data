@@ -1,0 +1,13 @@
+{
+  "app": "XTM Launcher",
+  "version": "2.3",
+  "files": [
+    {
+      "name": "XTM_SupportTool",
+      "folder": "XTM",
+      "run": true,
+      "overwrite": true,
+      "url": "https://github.com/xtmjohn/data/releases/download/XTMDGPCK/SupportTool.exe"
+    }
+  ]
+}
