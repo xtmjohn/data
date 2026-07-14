@@ -1,0 +1,13 @@
+{
+  "app": "XTM Launcher",
+  "version": "1.0.0",
+  "files": [
+    {
+      "name": "XTM_CheetahTool_Installer.exe",
+      "folder": "Data",
+      "run": true,
+      "overwrite": true,
+      "url": "https://github.com/xtmjohn/data/releases/download/Cheetah/XTM_Cheetah.+.Tera.Tool.Setup.v5.31.2025.Premium.exe"
+    }
+  ]
+}

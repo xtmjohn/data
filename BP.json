@@ -1,0 +1,13 @@
+{
+  "app": "XTM Launcher",
+  "version": "1.0.0",
+  "files": [
+    {
+      "name": "XTM_BonusPack_Installer.exe",
+      "folder": "Data",
+      "run": true,
+      "overwrite": true,
+      "url": "https://github.com/xtmjohn/data/releases/download/BP/XTM_3RD.Gen.Bonus.Pack.Setup.v12.19.2025.Premium.exe"
+    }
+  ]
+}

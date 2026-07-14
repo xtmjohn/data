@@ -1,0 +1,13 @@
+{
+  "app": "XTM Launcher",
+  "version": "1.0.0",
+  "files": [
+    {
+      "name": "XTM_UATPro_Installer.exe",
+      "folder": "Data",
+      "run": true,
+      "overwrite": true,
+      "url": "https://github.com/xtmjohn/data/releases/download/UAT/XTM_UAT.PRO.v164.01.Setup.Premium.exe"
+    }
+  ]
+}

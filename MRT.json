@@ -1,0 +1,13 @@
+{
+  "app": "XTM Launcher",
+  "version": "1.0.0",
+  "files": [
+    {
+      "name": "XTM_MRTPack_Installer.exe",
+      "folder": "Data",
+      "run": true,
+      "overwrite": true,
+      "url": "https://github.com/xtmjohn/data/releases/download/MRT/XTM_MRT.Tool.Pack.Setup.v7.17.2025.Premium.exe"
+    }
+  ]
+}

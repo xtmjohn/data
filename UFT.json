@@ -1,0 +1,13 @@
+{
+  "app": "XTM Launcher",
+  "version": "1.0.0",
+  "files": [
+    {
+      "name": "XTM_UFT_Installer.exe",
+      "folder": "Data",
+      "run": true,
+      "overwrite": true,
+      "url": "https://github.com/xtmjohn/data/releases/download/UFT/XTM_UFT.Tool.+.Hua.Dongle.Premium.Build.20262503.exe"
+    }
+  ]
+}
