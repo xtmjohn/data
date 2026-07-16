@@ -1,0 +1,102 @@
+{
+  "products": [
+    {
+      "name": "Diagram Pack",
+      "description": "Complete schematic and diagram tools for mobile phone repair",
+      "version": "v7",
+      "components": [
+        "Borneo Schematics & Diagram Tool v7 [ patch 13th jan 2025 ]",
+        "DZKJ v1.0.0.55"
+      ]
+    },
+    {
+      "name": "Cheetah Tool Pro [ DUO ]",
+      "description": "Professional mobile phone unlocking and repair tool",
+      "version": "2025.5.19.148.0",
+      "components": [
+        "Cheetah Tool Pro Version 2025.5.19.148.0",
+        "Tera-Tool Version 1.0.2.8"
+      ]
+    },
+    {
+      "name": "DFT PRO",
+      "description": "Advanced mobile phone flashing and repair tool",
+      "version": "V5.0.0",
+      "components": [
+        "DFT Pro V5.0.0"
+      ]
+    },
+    {
+      "name": "E-GSM Tool",
+      "description": "GSM mobile phone unlocking and repair solution",
+      "version": "v3.4.3",
+      "components": [
+        "E-GSM Tool v3.4.3"
+      ]
+    },
+    {
+      "name": "EME Tool [ EMT ]",
+      "description": "EME mobile phone repair and flashing tool",
+      "version": "4.08",
+      "components": [
+        "EMT 4.08"
+      ]
+    },
+    {
+      "name": "Griffin-Unlocker",
+      "description": "Mobile phone unlocking tool for various brands",
+      "version": "v2024.04.06",
+      "components": [
+        "Griffin-Unlocker v2024.04.06"
+      ]
+    },
+    {
+      "name": "MRT Tool [ PACK ]",
+      "description": "Complete mobile phone repair and unlocking suite",
+      "version": "1.5.6",
+      "components": [
+        "FRT Tool 1.5.6",
+        "All MRST Dongle Module"
+      ]
+    },
+    {
+      "name": "Miracle Tool [ PACK ]",
+      "description": "Comprehensive mobile phone repair solution",
+      "version": "3.40",
+      "components": [
+        "Miracle Thunder 3.40",
+        "Miracle FRP",
+        "Miracle Xiaomi Tool",
+        "Meizu Tool"
+      ]
+    },
+    {
+      "name": "UAT PRO",
+      "description": "Ultimate Android Tool for mobile phone repair",
+      "version": "v164.01",
+      "components": [
+        "UAT PRO v164.01"
+      ]
+    },
+    {
+      "name": "UFT Tool [ DUO ]",
+      "description": "Universal Flash Tool for mobile devices",
+      "version": "1.0",
+      "components": [
+        "UFT Tool",
+        "HUA Dongle"
+      ]
+    },
+    {
+      "name": "VIP Engine",
+      "description": "Premium all-in-one mobile phone repair tool",
+      "version": "Latest",
+      "components": [
+        "All DT Pro Tool Module",
+        "All HUA Module Latest Version",
+        "UAT PRO Latest version",
+        "E-GSM Tool Latest version"
+      ]
+    }
+  ]
+}
