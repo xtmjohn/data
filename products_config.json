@@ -23,19 +23,19 @@
       "url": "https://raw.githubusercontent.com/xtmjohn/data/main/DFT.json",
       "version": "1.5.0",
       "enabled": true
-    }
+    },
     {
       "name": "E-GSM Tool",
       "url": "https://raw.githubusercontent.com/xtmjohn/data/main/EGSM.json",
       "version": "1.5.0",
       "enabled": true
-    }
+    },
     {
       "name": "EME Tool [ EMT ]",
       "url": "https://raw.githubusercontent.com/xtmjohn/data/main/EMT.json",
       "version": "1.5.0",
       "enabled": true
-    }
+    },
     {
       "name": "Griffin-Unlocker",
       "url": "https://raw.githubusercontent.com/xtmjohn/data/main/GRF.json",
@@ -47,25 +47,25 @@
       "url": "https://raw.githubusercontent.com/xtmjohn/data/main/MRT.json",
       "version": "1.5.0",
       "enabled": true
-    }
+    },
     {
       "name": "Miracle Tool [ PACK ]",
       "url": "https://raw.githubusercontent.com/xtmjohn/data/main/MP.json",
       "version": "1.5.0",
       "enabled": true
-    }
+    },
     {
       "name": "UAT PRO",
       "url": "https://raw.githubusercontent.com/xtmjohn/data/main/UAT.json",
       "version": "1.5.0",
       "enabled": true
-    }
+    },
     {
       "name": "UFT Tool [ DUO ]",
       "url": "https://raw.githubusercontent.com/xtmjohn/data/main/UFT.json",
       "version": "1.5.0",
       "enabled": true
-    }
+    },
     {
       "name": "VIP ENGINE",
       "url": "https://raw.githubusercontent.com/xtmjohn/data/main/VIP.json",
