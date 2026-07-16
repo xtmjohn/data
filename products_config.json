@@ -23,55 +23,55 @@
       "url": "https://raw.githubusercontent.com/xtmjohn/data/main/DFT.json",
       "version": "1.5.0",
       "enabled": true
-    },   // <-- COMMA
+    },   
     {
       "name": "E-GSM Tool",
       "url": "https://raw.githubusercontent.com/xtmjohn/data/main/EGSM.json",
       "version": "1.5.0",
       "enabled": true
-    },   // <-- COMMA
+    },   
     {
       "name": "EME Tool [ EMT ]",
       "url": "https://raw.githubusercontent.com/xtmjohn/data/main/EMT.json",
       "version": "1.5.0",
       "enabled": true
-    },   // <-- COMMA
+    },   
     {
       "name": "Griffin-Unlocker",
       "url": "https://raw.githubusercontent.com/xtmjohn/data/main/GRF.json",
       "version": "1.5.0",
       "enabled": true
-    },   // <-- COMMA
+    }, 
     {
       "name": "MRT Tool [ PACK ]",
       "url": "https://raw.githubusercontent.com/xtmjohn/data/main/MRT.json",
       "version": "1.5.0",
       "enabled": true
-    },   // <-- COMMA
+    },   
     {
       "name": "Miracle Tool [ PACK ]",
       "url": "https://raw.githubusercontent.com/xtmjohn/data/main/MP.json",
       "version": "1.5.0",
       "enabled": true
-    },   // <-- COMMA
+    }, 
     {
       "name": "UAT PRO",
       "url": "https://raw.githubusercontent.com/xtmjohn/data/main/UAT.json",
       "version": "1.5.0",
       "enabled": true
-    },   // <-- COMMA
+    },   
     {
       "name": "UFT Tool [ DUO ]",
       "url": "https://raw.githubusercontent.com/xtmjohn/data/main/UFT.json",
       "version": "1.5.0",
       "enabled": true
-    },   // <-- COMMA
+    },   
     {
       "name": "VIP ENGINE",
       "url": "https://raw.githubusercontent.com/xtmjohn/data/main/VIP.json",
       "version": "1.5.0",
       "enabled": true
-    }    // <-- WALANG COMMA DITO (last item)
+    }
   ],
   "settings": {
     "autoUpdate": true,
