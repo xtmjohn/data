@@ -22,7 +22,7 @@
       "name": "DFT PRO",
       "url": "https://raw.githubusercontent.com/xtmjohn/data/main/DFT.json",
       "version": "1.5.0",
-      "enabled": false
+      "enabled": true
     }
 
   ],
