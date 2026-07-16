@@ -1,0 +1,34 @@
+{
+  "products": [
+    {
+      "name": "Diagram Pack",
+      "url": "https://raw.githubusercontent.com/xtmjohn/data/main/DP.json",
+      "version": "1.2.0",
+      "enabled": true
+    },
+    {
+      "name": "Bonus Pack",
+      "url": "https://raw.githubusercontent.com/xtmjohn/data/main/BP.json",
+      "version": "2.1.3",
+      "enabled": true
+    },
+    {
+      "name": "Cheetah Tool Pro [ DUO ]",
+      "url": "https://raw.githubusercontent.com/xtmjohn/data/main/CT.json",
+      "version": "3.0.1",
+      "enabled": true
+    },
+    {
+      "name": "DFT PRO",
+      "url": "https://raw.githubusercontent.com/xtmjohn/data/main/DFT.json",
+      "version": "1.5.0",
+      "enabled": false
+    }
+    // ... at iba pa
+  ],
+  "settings": {
+    "autoUpdate": true,
+    "checkInterval": 3600,
+    "theme": "dark"
+  }
+}
