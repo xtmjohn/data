@@ -71,7 +71,14 @@
       "url": "https://raw.githubusercontent.com/xtmjohn/data/main/VIP.json",
       "version": "1.5.0",
       "enabled": true
+    },   
+    {
+      "name": "UNLOCKTOOL [ 1600 1YR ]",
+      "url": "https://raw.githubusercontent.com/xtmjohn/data/main/UT.json",
+      "version": "1.5.0",
+      "enabled": true
     }
+    
   ],
   "settings": {
     "autoUpdate": true,
