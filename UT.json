@@ -3,13 +3,6 @@
   "version": "1.0.0",
   "files": [
     {
-      "name": "unlock.exe",
-      "folder": "Data",
-      "run": true,
-      "overwrite": true,
-      "url": "https://github.com/xtmjohn/data/releases/download/ut/unlock.exe"
-    },
-    {
       "name": "UnlockTool-2026-07-09-0.exe",
       "folder": "Data",
       "run": true,
