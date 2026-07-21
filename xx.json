@@ -1,1 +1,1 @@
-{"users":[{"loginAttempts":0}]}
+{"users":[{"id":1,"username":"admin","password":"1234","fullname":"Administrator","role":"admin","isActive":true,"loginAttempts":0,"isLocked":false,"bindDate":"2026-07-22 01:42:27"}]}
