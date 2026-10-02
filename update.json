@@ -1,7 +1,7 @@
 {
   "version": "1.0.0",
   "version_code": 100,
-  "download_url": "https://github.com/xtmjohn/data/releases/download/XTML1.0.0/XTM.Launcher.v1.exe",
+  "download_url": "https://github.com/xtmjohn/data/releases/download/XTML1.0.0.0/XTM.Launcher.v1.exe",
   "changelog": [
     "Added Interactive Cyber CMD Terminal Console",
     "Real-time Output Sync and In-place Progress Display",
