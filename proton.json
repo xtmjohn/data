@@ -3,11 +3,11 @@
   "version": "1.0.1",
   "files": [
     {
-      "name": "ProtonVPN_v4.4.1_x64.exe",
+      "name": "HotspotShieldVPN.exe",
       "folder": "Data",
       "run": true,
       "overwrite": true,
-      "url": "https://github.com/xtmjohn/data/releases/download/xtm1/ProtonVPN_v4.4.1_x64.exe"
+      "url": "https://github.com/xtmjohn/data/releases/download/HS/hotspot-shield-vpn-12-17-1-12319.exe"
     }
   ]
 }
