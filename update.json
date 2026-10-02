@@ -1,0 +1,10 @@
+{
+  "version": "2.5.0",
+  "version_code": 250,
+  "download_url": "https://github.com/xtmjohn/data/releases/download/v2.5/XTM_Launcher_v2.5.exe",
+  "changelog": [
+    "Added Interactive Cyber CMD Terminal Console",
+    "Real-time Output Sync and In-place Progress Display",
+    "Optimized Process Tree Management & Bug Fixes"
+  ]
+}
